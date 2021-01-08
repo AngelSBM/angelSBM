@@ -10,7 +10,7 @@ Never is enough. 📚👨🏻‍💻</p>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li><Bootstrap/li>
+  <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>Angular</li>
   <li>Git and GitHub</li>
