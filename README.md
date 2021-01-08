@@ -5,6 +5,13 @@
 Never is enough. 📚👨🏻‍💻</p>
 
 <h3>Main Skills:</h3>
+
+**<h4>Front-End Development</h4>**
 <ul>
-<li>Front-End Development</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li><Bootstrap/li>
+  <li>JavaScript</li>
+  <li>Angular</li>
+  <li>Git and GitHub</li>
 </ul>
