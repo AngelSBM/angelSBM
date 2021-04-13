@@ -9,7 +9,7 @@ Never is enough. 📚👨🏻‍💻</p>
 **<h4>Front-End Development</h4>**
 <ul>
   <li>HTML</li>
-  <li>CSS</li>
+  <li>CSS | SASS | SCSS</li>
   <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>Angular</li>
