@@ -1,17 +1,16 @@
 <h2>Hello world, it´s me! 🌎</h2>
 
-<p>Me llamo <strong>Ángel Sebastián Bello Mateo,</strong> estudiante de la vida y de Computer Science.
+<p>Me llamo <strong>Ángel Sebastián Bello Mateo,</strong> estudiante de Computer Science y de la vida.
  <br>
 Never is enough. 📚👨🏻‍💻</p>
 
 <h3>Main Skills:</h3>
 
-**<h4>Front-End Development</h4>**
+**<h4>Full-Stack Development</h4>**
 <ul>
-  <li>HTML</li>
-  <li>CSS | SASS | SCSS</li>
-  <li>Bootstrap</li>
-  <li>JavaScript</li>
-  <li>Angular</li>
-  <li>Git and GitHub</li>
+  <li> Angular | TS</li>
+  <li>Node.js</li>
+  <li>ASP.NET Core</li>
+  <li>SCSS-SASS | CSS Frameworks</li>
+  <li>Git | GitHub</li>
 </ul>
