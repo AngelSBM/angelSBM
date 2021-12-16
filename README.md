@@ -2,7 +2,6 @@
 
 <p>Me llamo <strong>Ángel Sebastián Bello Mateo,</strong> estudiante de Computer Science y de la vida.
  <br>
-Never is enough. 📚👨🏻‍💻</p>
 
 <h3>Main Skills:</h3>
 
