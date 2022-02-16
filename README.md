@@ -9,7 +9,7 @@
 <ul>
   <li> Angular | TS</li>
   <li>Node.js</li>
-  <li>ASP.NET Core</li>
+  <li>.NET Core | .NET Framework</li>
   <li>SCSS-SASS | CSS Frameworks</li>
   <li>Git | GitHub</li>
 </ul>
