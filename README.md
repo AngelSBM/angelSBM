@@ -7,10 +7,12 @@
 
 **<h4>Full-Stack Development</h4>**
 <ul>
+  <li>.NET Core | .NET Framework</li>
+  <li> Javascript </li>
+ <li> TypeScript </li>
   <li> Angular | TS</li>
   <li> Vue.js</li>
   <li>Node.js</li>
-  <li>.NET Core | .NET Framework</li>
   <li>SCSS-SASS | CSS Frameworks</li>
   <li>Git | GitHub</li>
 </ul>
